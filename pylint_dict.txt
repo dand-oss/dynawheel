@@ -1,0 +1,11 @@
+py
+abi
+implmentation
+dirs
+heirarchy
+platlib
+purelib
+paramters
+pkgname
+whlver
+namespace
