@@ -1,0 +1,68 @@
+# stuff we don't look at
+
+# python
+*.pyc
+docs/_build
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+.venv
+.venv/*
+
+.pytest*
+.mypy_cache
+.ipynb*
+.vscode
+.ropeproject
+.test*
+tests/test*/*
+playground/*
+tutorial/*
+
+# generated files
+*.autosave
+*.kate-swp
+*.pyc
+*.pyo
+*.pyd
+*.obj
+*.lib
+*.exp
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.pch
+*.exp
+*.suo
+*.res
+*.RES
+*.rep
+*-f2c.*
+*-done.*
+*-temp.*
+*.oml
+*.o
+*.f
+*.out
+*.log
+*.zip
+*.msi
+*.a
+*.so
+*.osl
+*.cache
+
+# emacs stools
+\#*\#
+TAGS
+
+# editor files
+.*.sw?
+*~
+
+# IDE fleas
+.vs/
+.idea/
